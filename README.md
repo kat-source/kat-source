@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kat-source
+- 👋 Hi, I’m @kat-source a super noob
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning docker, kubernetes
 - 💞️ I’m looking to collaborate on ...
